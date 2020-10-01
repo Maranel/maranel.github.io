@@ -22,6 +22,19 @@ label, button, input{
 }
 .red {background: red;
 }
-.big {
-  font-size: 40px
+
+.asteroid{
+  width: 10%;
+}
+.big{
+  color: blue;
+  background-color: yellow;
+}
+#b325, .b326, .b329 {
+  
+  font-weight: bold;
+  background-color: white;
+}
+#b325, .b326{
+  border: 1px solid green;
 }
